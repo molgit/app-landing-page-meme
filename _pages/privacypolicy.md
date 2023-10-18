@@ -2,7 +2,7 @@
 layout: post
 title: Privacy Policy
 permalink: /privacy/
-include_in_footer: true
+include_in_footer: false
 ---
 
 <meta http-equiv="refresh" content="0;url=https://www.google.com/" />

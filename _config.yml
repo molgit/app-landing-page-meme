@@ -7,24 +7,39 @@ email: hi@aimememaker.app
 app_icon: /assets/icon.png
 favicon: /assets/icon.png
 
-made_by: // Made by [Miká Kruschel](https://kruschel.dev)
+made_by:
 
 links:
-  - title: AppStore Connect Widget
-    url: https://ac-widget.xyz
+  - title: Terms
+    url: https://adprime.ltd
 
 app_description: |
-    Create and deploy an iOS app landing page with Jekyll
+    Welcome to Ai Meme Maker, Your One-Stop Solution for Instant Meme Creation!
 
-    ## Usage
+    ## Instantly Create Memes with AI
 
-    1. Fork this repo or use it as a template
-    2. Edit `_config.yml` and enter the details for your app
-    3. Add screenshots (in `assets/screenshots/`) and app icon (in `assets` and add path in `_config.yml`)
-    4. Edit or remove Privacy Policy (`_pages/privacypolicy.md`)
-    5. Deploy to Vercel or Netlify ([guide](https://jekyllrb.com/resources/#guides))
-    
-    <br>This template is open source and can be found at [GitHub](https://github.com/mikakruschel/app-landing-page).
+    1. **Capture or Upload**: Snap a photo or choose one from your gallery.
+    2. **AI-Powered**: Our cutting-edge AI technology crafts memes in seconds.
+    3. **Download or Share**: Save your meme or share it directly on social media.
+
+    ## Why Choose Ai Meme Maker?
+
+    - **User-Friendly Interface**: No complicated steps, create memes effortlessly.
+    - **Quick and Unique**: Memes are not only created in seconds but are also unique.
+    - **One-Click Sharing**: Share your Ai-generated memes instantly to your social media platforms.
+  
+    <br>Our AI Meme Maker ensures your memes stand out, boosting your social media engagement and bringing 'Ha Ha' and 'LOLs' into your life!
+
+    ## The Power of AI in Meme Creation
+
+    What sets Ai Meme Maker apart is its AI technology. We don't just add text to images; we create memes that understand the context, ensuring they are relevant and hilarious. Transform your photos into memes that resonate with your emotions.
+
+    ## Reach Out to Us
+
+    Have questions or suggestions? Contact us at [hi@aimememaker.app](mailto:hi@aimememaker.app).
+
+
+
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###

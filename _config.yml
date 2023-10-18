@@ -1,9 +1,9 @@
-app_name: Awesome App
-app_subtitle: Short tagline
-app_download: https://apps.apple.com/us/app/flashtex-flashcards/id1534437697
-app_github: https://github.com/mikakruschel/app-landing-page
-app_id: 1534437697
-email: mail@kruschel.dev
+app_name: Ai Meme Maker
+app_subtitle: Capture or upload an image and let the AI turn your photos into hilarious memes.
+app_download: https://apps.apple.com/app/ai-meme-maker-pro/id6468994591
+app_github: https://play.google.com/store/apps/details?id=com.prime.aimememaker
+app_id: id6468994591
+email: hi@aimememaker.app
 app_icon: /assets/icon.png
 favicon: /assets/icon.png
 

@@ -7,6 +7,7 @@ include_in_footer: true
 
 <meta http-equiv="refresh" content="0;url=https://www.google.com/" />
 
+<!--
 # Privacy Policy
 We believe your data is yours and yours alone. We do not store or transmit your personal information or information about your computer, nor do we include any advertising or analytics software that talks to third parties.
 
@@ -15,3 +16,4 @@ We believe your data is yours and yours alone. We do not store or transmit your 
 
 ## Contact Us
 If you have any more questions, please feel free to contact us at: [{{ site.email }}](mailto:{{ site.email }}).
+-->

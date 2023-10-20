@@ -8,13 +8,13 @@ layout: page
     <div class="m-3 text-center sm:text-left">
         <h1 class="text-4xl font-bold">{{ site.app_name }}</h1>
         <p class="text-xl font-semibold mb-1">{{ site.app_subtitle }}</p>
-        <div class="flex space-x-2 max-w-full">
+        <div class="flex space-x-2 max-w-full justify-center">
             <a href="{{ site.app_download }}" target="_blank" rel="noopener noreferrer">
-                <img class="h-14" src="assets/apple-badge.png" alt="download" />
+                <img class="h-14" src="assets/apple-badge.png" alt="Download in App Store" />
             </a>
             {% if site.app_github %}
             <a href="{{ site.app_github }}" target="_blank" rel="noopener noreferrer">
-                <img class="h-14" src="assets/github-badge.png" alt="open on github" />
+                <img class="h-14" src="assets/github-badge.png" alt="Download in Play Store" />
             </a>
             {% endif %}
         </div>
